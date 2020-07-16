@@ -5,6 +5,7 @@
         <group>
             <file>file:/C:/xampp/htdocs/mylaraval2/app/Http/Resources/Product/ProductResource.php</file>
             <file>file:/C:/xampp/htdocs/mylaraval2/app/Http/Controllers/ProductController.php</file>
+            <file>file:/C:/xampp/htdocs/mylaraval2/app/Exceptions/Handler.php</file>
             <file>file:/C:/xampp/htdocs/mylaraval2/app/Http/Requests/ProductRequest.php</file>
         </group>
     </open-files>
